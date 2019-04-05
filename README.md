@@ -16,6 +16,6 @@ A train schedule application that incorporates Firebase to host arrival and depa
   - First Train Time -- in military time
   - Frequency -- in minutes
 
-- This app calculates when the next train will arrive; this should    be relative to the current time.
+- This app calculates when the next train will arrive.
 
-- Users from many different machines are able to view same train      times.
+- Users from many different machines are able to view same train times.
